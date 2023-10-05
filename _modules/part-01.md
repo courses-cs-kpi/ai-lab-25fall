@@ -14,8 +14,8 @@ title: Знайомство
 05 жов
 : **Тема**{: .label .label-green}**Лінійна алгебра: огляд 🔭**
   : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
-: **Додатково**{: .label .label-red}**Array programming with NumPy**
-: [[HML](https://www.nature.com/articles/s41586-020-2649-2)][[VIDEO](https://www.youtube.com/watch?v=8Mpc9ukltVA&list=PLuqhl4iqeAZZAArMx52S7kIFRwT74Td66&index=10)] 
+: **Екстра**{: .label .label-red}**Array programming with NumPy**
+  : [[HML](https://www.nature.com/articles/s41586-020-2649-2)][[VIDEO](https://www.youtube.com/watch?v=8Mpc9ukltVA&list=PLuqhl4iqeAZZAArMx52S7kIFRwT74Td66&index=10)] 
 
 <!-- : **ПР**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/ciknDVFMxcU)] -->
