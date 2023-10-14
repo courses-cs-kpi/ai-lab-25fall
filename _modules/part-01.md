@@ -17,6 +17,12 @@ title: Знайомство
 : **Екстра**{: .label .label-red}**Array programming with NumPy**
   : [[HML](https://www.nature.com/articles/s41586-020-2649-2)][[VIDEO](https://www.youtube.com/watch?v=8Mpc9ukltVA&list=PLuqhl4iqeAZZAArMx52S7kIFRwT74Td66&index=10)] 
 
+
+14 жов
+: **ПР #2**{: .label .label-purple} **Лінійна регресія**
+  : [[HML](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)] [[Деталі](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
+: Дедлайн: 20 жовтня
+
 <!-- : **ПР**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/ciknDVFMxcU)] -->
 
