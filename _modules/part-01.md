@@ -20,7 +20,7 @@ title: Знайомство
 
 14 жов
 : **ПР #2**{: .label .label-purple} **Лінійна регресія**
-  : [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)] [[Деталі](https://drive.google.com/file/d/1YZt-SAmVeJ6gnZ7DuWKanfq9QrDDzV3k/view?usp=sharing)]
+  : [[Деталі](https://drive.google.com/file/d/1YZt-SAmVeJ6gnZ7DuWKanfq9QrDDzV3k/view?usp=sharing)] [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
 : Дедлайн: 20 жовтня
 
 <!-- : **ПР**{: .label .label-green } **Вступ**
