@@ -23,8 +23,15 @@ title: Знайомство
   : [[Деталі](https://drive.google.com/file/d/1YZt-SAmVeJ6gnZ7DuWKanfq9QrDDzV3k/view?usp=sharing)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
 : Дедлайн: 20 жовтня
 
+
+27 жов
+: **ПР #3**{: .label .label-purple} **Логістична регресія**
+  : [[Деталі](https://drive.google.com/file/d/1MhVbe9gV05v1nNU5l2LqMWjhBGbekZHR/view?usp=sharing)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
+: Дедлайн: 3 листопада
+
 <!-- : **ПР**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/ciknDVFMxcU)] -->
 
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
   <!-- : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 -->
+  
