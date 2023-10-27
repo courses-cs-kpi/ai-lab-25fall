@@ -26,7 +26,7 @@ title: Знайомство
 
 27 жов
 : **ПР #3**{: .label .label-purple} **Логістична регресія**
-  : [[Деталі](https://drive.google.com/file/d/1MhVbe9gV05v1nNU5l2LqMWjhBGbekZHR/view?usp=sharing)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
+  : [[Деталі](https://drive.google.com/file/d/1MhVbe9gV05v1nNU5l2LqMWjhBGbekZHR/view?usp=sharing)]
 : Дедлайн: 3 листопада
 
 <!-- : **ПР**{: .label .label-green } **Вступ**
