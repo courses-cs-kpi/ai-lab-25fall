@@ -30,7 +30,7 @@ title: Знайомство
 : Дедлайн: 3 листопада
 
 
-з 24 лис
+19 лис
 : **Cемінар**{: .label .label-yellow} **Вимоги та підготовка до семінару**
   : [[Деталі](https://drive.google.com/file/d/1ECUb9-v_Vxa1eYvWWAbDV5BnnZ-y3bXd/view?usp=sharing)]
 : Дедлайн: 21 грудня 
