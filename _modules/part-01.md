@@ -31,7 +31,7 @@ title: Знайомство
 
 
 19 лис
-: **Cемінар**{: .label .label-yellow} **Вимоги до семінару**
+: **Cемінар**{: .label .label-yellow} **Вимоги до матеріалів семінару**
   : [[Деталі](https://drive.google.com/file/d/1ECUb9-v_Vxa1eYvWWAbDV5BnnZ-y3bXd/view?usp=sharing)]
 : Дедлайн: 21 грудня 
 
