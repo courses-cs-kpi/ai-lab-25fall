@@ -29,6 +29,12 @@ title: Знайомство
   : [[Деталі](https://drive.google.com/file/d/1MhVbe9gV05v1nNU5l2LqMWjhBGbekZHR/view?usp=sharing)]
 : Дедлайн: 3 листопада
 
+
+з 24 лис
+: **Cемінар**{: .label .label-yellow} **Вимоги та підготовка до семінару**
+  : [[Деталі](https://drive.google.com/file/d/1ECUb9-v_Vxa1eYvWWAbDV5BnnZ-y3bXd/view?usp=sharing)]
+: Дедлайн: 21 грудня 
+
 <!-- : **ПР**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/ciknDVFMxcU)] -->
 
