@@ -4,14 +4,18 @@ title: Знайомство
 
 20 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
-  : [[HML](https://ykochura.github.io/ai-lab/?p=details.md#1)][[PDF](https://ykochura.github.io/ai-lab/pdf/details.pdf)][[VIDEO](https://youtu.be/0t3GKLVQAPM)]
+  : [[HML](https://ykochura.github.io/ai-lab/?p=details.md#1)][[PDF](https://ykochura.github.io/ai-lab/pdf/details.pdf)]
+: **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
+  : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
+: **Огляд**{: .label .label-red}**NumPy**
+  : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)]
 
-28 вер
+<!-- 28 вер
 : **ПР #1**{: .label .label-purple} [**Основи Python**](https://drive.google.com/drive/folders/1qcedTc_rReemaJAE5zpU6cEZduELvA_6?usp=sharing)
-  : Дедлайн: 08 жовтня
+  : Дедлайн: 08 жовтня -->
 
 
-05 жов
+<!-- 05 жов
 : **Тема**{: .label .label-green}**Лінійна алгебра: огляд 🔭**
   : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
 : **Екстра**{: .label .label-red}**Array programming with NumPy**
@@ -33,7 +37,7 @@ title: Знайомство
 19 лис
 : **Cемінар**{: .label .label-yellow} **Вимоги до матеріалів семінару**
   : [[Деталі](https://drive.google.com/file/d/1ECUb9-v_Vxa1eYvWWAbDV5BnnZ-y3bXd/view?usp=sharing)]
-: Дедлайн: 21 грудня 
+: Дедлайн: 21 грудня  -->
 
 <!-- : **ПР**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/ciknDVFMxcU)] -->

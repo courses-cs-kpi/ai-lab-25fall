@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Intro to AI
+title: ПСШІ
 nav_exclude: true
 seo:
   type: Практики

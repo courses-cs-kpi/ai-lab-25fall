@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ШІ-лаб
-tagline: Системи штучного інтелекту
-description: КПІ ім. Ігоря Сікорського - Осінь, 2023
+title: Головна
+tagline: Програмування систем штучного інтелекту
+description: КПІ ім. Ігоря Сікорського - Осінь, 2024
 author: Юрій Кочура
-baseurl: '/ai-lab-23fall' # the subpath of your site, e.g. /blog
+baseurl: '/ai-lab-24fall' # the subpath of your site, e.g. /blog
 url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
 aux_links_new_tab: true
-footer_content: 'Юрій Кочура &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Юрій Кочура &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 # Collections for website data
 collections:
