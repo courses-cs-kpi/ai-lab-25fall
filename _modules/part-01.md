@@ -2,7 +2,7 @@
 title: Знайомство
 ---
 
-20 вер
+04 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/ai-lab/?p=details.md#1)][[PDF](https://ykochura.github.io/ai-lab/pdf/details.pdf)]
 : **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
