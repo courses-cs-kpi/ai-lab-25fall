@@ -8,7 +8,7 @@ title: Знайомство
 : **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
   : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
 : **Огляд**{: .label .label-red}**NumPy**
-  : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)]
+  : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
 <!-- 28 вер
 : **ПР #1**{: .label .label-purple} [**Основи Python**](https://drive.google.com/drive/folders/1qcedTc_rReemaJAE5zpU6cEZduELvA_6?usp=sharing)
