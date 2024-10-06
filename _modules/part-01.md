@@ -22,10 +22,10 @@ title: Знайомство
   : [[HML](https://www.nature.com/articles/s41586-020-2649-2)][[VIDEO](https://www.youtube.com/watch?v=8Mpc9ukltVA&list=PLuqhl4iqeAZZAArMx52S7kIFRwT74Td66&index=10)]  -->
 
 
-07 жов
+<!-- 07 жов
 : **ПР #2**{: .label .label-purple} **Лінійна регресія**
   : [[Деталі](https://drive.google.com/file/d/1YZt-SAmVeJ6gnZ7DuWKanfq9QrDDzV3k/view?usp=sharing)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
-: Дедлайн: 20 жовтня
+: Дедлайн: 20 жовтня -->
 
 
 <!-- 27 жов
