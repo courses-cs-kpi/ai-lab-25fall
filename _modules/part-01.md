@@ -15,26 +15,19 @@ title: Знайомство
   : Дедлайн: 06 жовтня 
 
 
-<!-- 05 жов
-: **Тема**{: .label .label-green}**Лінійна алгебра: огляд 🔭**
-  : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
-: **Екстра**{: .label .label-red}**Array programming with NumPy**
-  : [[HML](https://www.nature.com/articles/s41586-020-2649-2)][[VIDEO](https://www.youtube.com/watch?v=8Mpc9ukltVA&list=PLuqhl4iqeAZZAArMx52S7kIFRwT74Td66&index=10)]  -->
-
-
 07 жов
 : **ПР #2**{: .label .label-purple} **Лінійна регресія**
   : [[Деталі](https://drive.google.com/drive/folders/1vVJ177kElG-40dhN0hPiY5oCKY9PtUDK?usp=sharing)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
 : Дедлайн: 20 жовтня
 
 
-<!-- 27 жов
+04 лис
 : **ПР #3**{: .label .label-purple} **Логістична регресія**
-  : [[Деталі](https://drive.google.com/file/d/1MhVbe9gV05v1nNU5l2LqMWjhBGbekZHR/view?usp=sharing)]
-: Дедлайн: 3 листопада
+  : [[Деталі](https://drive.google.com/drive/folders/1voH2sq2YssfiAPNemw7gHYZkZzar4qJ1?usp=sharing)]
+: Дедлайн: 17 листопада
 
 
-19 лис
+<!-- 19 лис
 : **Cемінар**{: .label .label-yellow} **Вимоги до матеріалів семінару**
   : [[Деталі](https://drive.google.com/file/d/1ECUb9-v_Vxa1eYvWWAbDV5BnnZ-y3bXd/view?usp=sharing)]
 : Дедлайн: 21 грудня  -->
@@ -44,4 +37,10 @@ title: Знайомство
 
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
   <!-- : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 -->
+
+<!-- 05 жов
+: **Тема**{: .label .label-green}**Лінійна алгебра: огляд 🔭**
+  : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
+: **Екстра**{: .label .label-red}**Array programming with NumPy**
+  : [[HML](https://www.nature.com/articles/s41586-020-2649-2)][[VIDEO](https://www.youtube.com/watch?v=8Mpc9ukltVA&list=PLuqhl4iqeAZZAArMx52S7kIFRwT74Td66&index=10)]  -->
   
