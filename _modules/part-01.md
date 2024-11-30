@@ -27,10 +27,10 @@ title: Знайомство
 : Дедлайн: 17 листопада
 
 
-<!-- 19 лис
+1 гру
 : **Cемінар**{: .label .label-yellow} **Вимоги до матеріалів семінару**
-  : [[Деталі](https://drive.google.com/file/d/1ECUb9-v_Vxa1eYvWWAbDV5BnnZ-y3bXd/view?usp=sharing)]
-: Дедлайн: 21 грудня  -->
+  : [[Деталі](https://drive.google.com/drive/folders/1N1QM4XZQVjVpPN2dtKe5F_DtgPGsJUT9?usp=sharing)]
+: Дедлайн: 21 грудня 
 
 <!-- : **ПР**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/ciknDVFMxcU)] -->
