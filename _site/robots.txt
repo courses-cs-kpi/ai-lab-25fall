@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/ai-lab-24fall/sitemap.xml
+Sitemap: http://localhost:4000/ai-lab-25fall/sitemap.xml
