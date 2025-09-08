@@ -2,7 +2,7 @@
 title: Знайомство
 ---
 
-04 вер
+08 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/ai-lab/?p=details.md#1)][[PDF](https://ykochura.github.io/ai-lab/pdf/details.pdf)]
 : **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
@@ -10,7 +10,7 @@ title: Знайомство
 : **Огляд**{: .label .label-red}**NumPy**
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
- 18 вер
+<!--  18 вер
 : **ПР #1**{: .label .label-purple} [**Основи Python**](https://drive.google.com/drive/folders/1qcedTc_rReemaJAE5zpU6cEZduELvA_6?usp=sharing)
   : Дедлайн: 06 жовтня 
 
@@ -30,7 +30,7 @@ title: Знайомство
 1 гру
 : **Cемінар**{: .label .label-yellow} **Вимоги до матеріалів семінару**
   : [[Деталі](https://drive.google.com/drive/folders/1N1QM4XZQVjVpPN2dtKe5F_DtgPGsJUT9?usp=sharing)]
-: Дедлайн: 21 грудня 
+: Дедлайн: 21 грудня  -->
 
 <!-- : **ПР**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/ciknDVFMxcU)] -->
