@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Головна
 tagline: Програмування систем штучного інтелекту
-description: КПІ ім. Ігоря Сікорського - Осінь, 2024
+description: КПІ ім. Ігоря Сікорського - Осінь, 2025
 author: Юрій Кочура
-baseurl: '/ai-lab-24fall' # the subpath of your site, e.g. /blog
+baseurl: '/ai-lab-25fall' # the subpath of your site, e.g. /blog
 url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
