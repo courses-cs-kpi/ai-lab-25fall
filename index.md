@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ПСШІ
+title: СШІ
 nav_exclude: true
 seo:
   type: Практики
