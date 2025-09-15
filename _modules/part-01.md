@@ -10,11 +10,11 @@ title: Знайомство
 : **Огляд**{: .label .label-red}**NumPy**
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
-<!--  18 вер
-: **ПР #1**{: .label .label-purple} [**Основи Python**](https://drive.google.com/drive/folders/1qcedTc_rReemaJAE5zpU6cEZduELvA_6?usp=sharing)
-  : Дедлайн: 06 жовтня 
+15 вер
+: **ПР #1**{: .label .label-purple} [**Основи Python**](https://drive.google.com/drive/folders/1UXMAq8BbrjlXmjzbi2QAtTv58HpJnd6D?usp=sharing)
+  : Дедлайн: 29 вересня  
 
-
+<!--  
 07 жов
 : **ПР #2**{: .label .label-purple} **Лінійна регресія**
   : [[Деталі](https://drive.google.com/drive/folders/1vVJ177kElG-40dhN0hPiY5oCKY9PtUDK?usp=sharing)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
