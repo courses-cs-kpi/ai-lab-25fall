@@ -17,13 +17,14 @@ title: Знайомство
     : **Дедлайн**:  29 вересня
 
 
-<!--  
-07 жов
+ 
+01 жов
 : **ПР #2**{: .label .label-purple} **Лінійна регресія**
-  : [[Деталі](https://drive.google.com/drive/folders/1vVJ177kElG-40dhN0hPiY5oCKY9PtUDK?usp=sharing)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
-: Дедлайн: 20 жовтня
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab2-ai.pdf)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
+    : **Дедлайн**:  15 жовтня
 
 
+<!-- 
 04 лис
 : **ПР #3**{: .label .label-purple} **Логістична регресія**
   : [[Деталі](https://drive.google.com/drive/folders/1voH2sq2YssfiAPNemw7gHYZkZzar4qJ1?usp=sharing)]
