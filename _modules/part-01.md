@@ -34,6 +34,9 @@ title: Знайомство
   : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab4-ai.pdf)] 
     : **Дедлайн**:  24 листопада
 
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/ai-lab/hw/seminar.pdf)] 
+
 <!-- 
 04 лис
 : **ПР #3**{: .label .label-purple} **Логістична регресія**
